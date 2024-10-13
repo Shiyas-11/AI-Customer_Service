@@ -1,2 +1,5 @@
 /CustomerCare
 .env
+
+__pycache__/
+.vscode/
